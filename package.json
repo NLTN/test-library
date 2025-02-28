@@ -183,5 +183,8 @@
     "languages": "js",
     "type": "library",
     "version": "0.48.3"
+  },
+  "dependencies": {
+    "events": "^3.3.0"
   }
 }
