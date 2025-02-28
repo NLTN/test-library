@@ -1,7 +1,7 @@
-import { multiply } from 'test-library';
+// import { multiply } from 'test-library';
 import { Text, View, StyleSheet } from 'react-native';
 
-const result = multiply(3, 7);
+const result = 'multiply(3, 7)';
 
 export default function App() {
   return (
